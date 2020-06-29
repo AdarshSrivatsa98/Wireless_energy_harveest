@@ -1,0 +1,65 @@
+{
+    "parameters": [
+        {
+            "expr": "66",
+            "name": "l",
+            "value": "66"
+        },
+        {
+            "expr": "70",
+            "name": "w",
+            "value": "70"
+        },
+        {
+            "expr": "16",
+            "name": "R",
+            "value": "16"
+        },
+        {
+            "expr": "10",
+            "name": "h1",
+            "value": "10"
+        },
+        {
+            "expr": "12",
+            "name": "h2",
+            "value": "12"
+        },
+        {
+            "expr": "2.2",
+            "name": "w1",
+            "value": "2.2"
+        },
+        {
+            "expr": "5",
+            "name": "l1",
+            "value": "5"
+        },
+        {
+            "expr": "1",
+            "name": "g",
+            "value": "1"
+        },
+        {
+            "expr": "2.85",
+            "name": "r1",
+            "value": "2.85"
+        },
+        {
+            "expr": "2.33",
+            "name": "ws",
+            "value": "2.33"
+        },
+        {
+            "expr": "0.018",
+            "name": "t",
+            "value": "0.018"
+        },
+        {
+            "expr": "1.016",
+            "name": "d",
+            "value": "1.016"
+        }
+    ],
+    "version": 1
+}

@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2019.5 - Apr 26 2019 - ACIS 28.0.2 - Student Edition
+[Author]
+Akshay Vishwanath
+[Mesh Cells]
+78,455
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:test3.cst?dd826f20b0842010e29321dac9372cdf?324444:numberofparameters=11:port=1>mode=1>zre=50>zim=0:::r?d?g?h1?h2?l?r1?t?w?w1?ws
+[Comment]
